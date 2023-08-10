@@ -1,0 +1,22 @@
+{
+  "name": "macinko",
+  "version": "1.0.0",
+  "description": "static repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macinko/picx-images-hosting.git"
+  },
+  "keywords": [
+    "pics"
+  ],
+  "author": "macinko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macinko/picx-images-hosting/issues"
+  },
+  "homepage": "https://github.com/macinko/picx-images-hosting#readme"
+}
